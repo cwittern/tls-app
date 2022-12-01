@@ -223,7 +223,7 @@
           "schema" : {
             "type" : "string"
           },
-          "example" : "%E5%AE%9A%E8%A1%8C%E6%98%9F%E4%B8%89%E7%99%BE%E4%B8%80%E5%BA%A6%E3%80%82"
+          "example" : "定行星三百一度。"
         }, {
           "name" : "query",
           "in" : "query",
@@ -233,7 +233,7 @@
           "schema" : {
             "type" : "string"
           },
-          "example" : "%E5%AD%97"
+          "example" : "三百  "
         }, {
           "name" : "context",
           "in" : "query",
@@ -263,7 +263,7 @@
           "schema" : {
             "type" : "string"
           },
-          "example" : "%E4%B8%89%E7%99%BE%E4%B8%80"
+          "example" : "三百"
         }, {
           "name" : "qitem",
           "in" : "query",
@@ -938,7 +938,7 @@
           "schema" : {
             "type" : "string"
           },
-          "example" : "g%C4%81o"
+          "example" : "gāo"
         }, {
           "name" : "wid",
           "in" : "query",
@@ -998,7 +998,7 @@
           "schema" : {
             "type" : "string"
           },
-          "example" : "%E9%AB%98"
+          "example" : "高"
         }, {
           "name" : "count",
           "in" : "query",
@@ -1028,7 +1028,7 @@
           "schema" : {
             "type" : "string"
           },
-          "example" : "%E5%85%B1"
+          "example" : "高"
         }, {
           "name" : "target",
           "in" : "query",
